@@ -30,7 +30,7 @@ class Team
 				return 0.0;
 			}
 			return $this->totalGoals / $this->totalGames;
-		}
+	}
 
 }
 
